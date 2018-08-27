@@ -23,3 +23,5 @@
 12.ubuntu-vpn: http://blog.z-proj.com/enabling-l2tp-over-ipsec-on-ubuntu-16-04/
 
 13.vpn: https://askubuntu.com/questions/789421/l2tp-ipsec-psk-vpn-client-on-xubuntu-16-04/797764
+
+14.mac配置vpn: http://www.etwiki.cn/mac-os/9402.html
